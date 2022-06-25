@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dgrim01
 - 👀 I’m interested in software development, web development and games.
 - 🌱 I’m currently learning C#, C++, hmtl, css and javascript.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on currently anything my skills would be useful
 - 📫 How to reach me - email at dgrimley2001@gmail.com
 
 <!---
