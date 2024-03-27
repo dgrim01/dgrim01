@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Dominic!](https://sakigo9.github.io/MyPortfolio/)
+### Hello World 👋 It's [Dominic!](https://github.com/dgrim01/dgrim01)
 
 <br/>
 
