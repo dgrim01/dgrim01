@@ -14,7 +14,7 @@ Hi, I'm Dominic Grimley. I am a programmer/software engineer from the UK. Apart 
 
 <img align="right" alt="GIF" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" />
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 🌱 I’m currently learning Python.
 - :video_game: Also Learning C++ Unreal Engine 5.
