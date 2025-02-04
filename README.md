@@ -16,7 +16,7 @@ Hi, I'm Dominic Grimley. I am a programmer/software engineer from the UK. Apart 
 
 **Talking about Personal Stuff:**
 
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently becoming proficient Python.
 - :video_game: Also Learning C++ Unreal Engine 5.
 - :school: Have a degree in Applied Computing from De Monfort University.
 - :school: In university I learnt some of the basics in C#, MySQL, HTML and CSS as well as some javascript.
